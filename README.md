@@ -9,5 +9,5 @@ The objective of this project assignment is trying to put togather and demostrat
 
 Data Sources: https://www.basketball-reference.com/leagues/NBA_2024.html
 
-The NBA season for 2023-24 is around the corner.   In this project, I am trying to pull out data about the NBA teams and players from the above website, perform some analysis on the information and dig out interesting information / statistics on what to expect in this new NBA season.
+The new NBA season for 2023-24 is around the corner.   In this project, I am trying to pull out data about the NBA teams and players from the above website, perform detailed analysis on the information and dig out interesting information and statistics on what to expect in this new NBA season.
 
