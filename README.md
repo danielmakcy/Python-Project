@@ -26,6 +26,7 @@ The new NBA season for 2023-24 is around the corner.   In this project, I am try
 
 ![image](https://github.com/danielmakcy/Python-Project/assets/144144899/cf313363-a1f3-4f00-b7d1-e10489887907)
 
+
 ### Experience
 
 1) While most of the players in the regular roster are having years of experience, 50% of the players are having 3 years of experience or less.   This might reflect the less experience player are on the reserve list and have less play time.
