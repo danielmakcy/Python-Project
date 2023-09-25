@@ -35,7 +35,7 @@ The new NBA season for 2023-24 is around the corner.   In this project, I am try
 
 ![image](https://github.com/danielmakcy/Python-Project/assets/144144899/f9df074d-7628-46f7-8319-0b7d15374183)
 
-3) While experience level are significantly different for each team, there is no major differnece in term of experience for teams in East and West Conference.
+3) While experience level differs significantly amond the NBA teams, no major differnece, in term of experience, is observed when comparing teams in East and West Conference.
 
 ![image](https://github.com/danielmakcy/Python-Project/assets/144144899/027bcab8-7914-468e-af04-026c8c882922)
 
